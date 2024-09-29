@@ -3,7 +3,7 @@
 
 # Chat Application
 
-This chat application supports threaded conversations, message editing, and version tracking of edited messages. It is built with React, Supabase, and React Query for managing data fetching and mutations.
+This chat application supports threaded conversations, message editing, and version tracking of edited messages. It is built with Nextjs, Supabase, and React Query for managing data fetching and mutations.
 
 ## Table of Contents
 
